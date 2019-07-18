@@ -28,3 +28,6 @@ e.g. 	var locations = [
 
 4. To find your api key goto following url:<br />
   https://developers.google.com/maps/documentation/embed/get-api-key
+ 
+<br /> 
+5. When you click on map it will alert nearer location to click.
