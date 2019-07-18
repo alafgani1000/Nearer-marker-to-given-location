@@ -1,5 +1,5 @@
 # Nearer-marker-to-given-location
-<br />
+
 1. Add the places that you want in location array. i.e. add lat, long.<br />
 e.g. 	var locations = [
 	  ['Viman Nagar',18.574674, 73.912417, 1],
